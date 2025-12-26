@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Go
+bin/
+*.exe
+*.test
+vendor/
+go.sum
+
+# Docker
+Dockerfile
+.dockerignore
+
+# OS
+.DS_Store
